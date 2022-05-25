@@ -8,7 +8,7 @@ export class Page extends Component {
 		displayEverything: [{ value: "", id: 0, displayInput: true, type: "line" }]
 	};
 	information = {
-		name: "dummy_name",
+		name: "NITESH",
 		commands: [
 			{
 				id: 10,
